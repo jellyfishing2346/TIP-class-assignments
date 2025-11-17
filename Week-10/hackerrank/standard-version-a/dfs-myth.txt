@@ -1,0 +1,3 @@
+The correct answer is: "Finding the shortest path in an unweighted graph."
+
+Reason: DFS can find a path, detect cycles, and explore components, but it doesn't guarantee shortest paths — BFS should be used for shortest paths in unweighted graphs.
